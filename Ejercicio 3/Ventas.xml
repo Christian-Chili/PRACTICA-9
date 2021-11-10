@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Ventas>
+	<Venta>
+		<Codigo>01</Codigo>
+		<Camtidad>12</Camtidad>
+	</Venta>
+	<Venta>
+		<Codigo>02</Codigo>
+		<Camtidad>2</Camtidad>
+	</Venta>
+</Ventas>

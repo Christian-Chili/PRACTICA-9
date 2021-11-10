@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Facturacion" Class="factuDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="WebSettings" ConnectionString="Data Source=J3R3MY\SQLEXPRESS;Initial Catalog=Facturacion;Integrated Security=True" SettingsObjectName="System.Configuration.ConfigurationManager.ConnectionStrings" SettingsPropertyName="FacturacionConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.producto" Member="producto">
+    <Type Name="producto">
+      <Column Name="codigo" Type="System.String" DbType="VarChar(4)" CanBeNull="true" />
+      <Column Name="nombre" Type="System.String" DbType="VarChar(20)" CanBeNull="true" />
+      <Column Name="precio" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.venta" Member="venta">
+    <Type Name="venta">
+      <Column Name="codigo" Type="System.String" DbType="VarChar(4)" CanBeNull="true" />
+      <Column Name="cantidad" Type="System.Int32" DbType="Int" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

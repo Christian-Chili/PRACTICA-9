@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Universidad>
+	<UCSM>
+		<Codigo>01</Codigo>
+		<Nombre>Jose</Nombre>
+		<AreaTrabaja>Informatica</AreaTrabaja>
+		<Sueldo>4000</Sueldo>
+	</UCSM>
+	<UCSM>
+		<Codigo>02</Codigo>
+		<Nombre>Pedro</Nombre>
+		<AreaTrabaja>Contabilidad</AreaTrabaja>
+		<Sueldo>2500</Sueldo>
+	</UCSM>
+	<UCSM>
+		<Codigo>03</Codigo>
+		<Nombre>Fernando</Nombre>
+		<AreaTrabaja>Marketing</AreaTrabaja>
+		<Sueldo>3000</Sueldo>
+	</UCSM>
+	<UCSM>
+		<Codigo>04</Codigo>
+		<Nombre>Mario</Nombre>
+		<AreaTrabaja>Informatica</AreaTrabaja>
+		<Sueldo>4000</Sueldo>
+	</UCSM>
+	<UCSM>
+		<Codigo>05</Codigo>
+		<Nombre>Luigi</Nombre>
+		<AreaTrabaja>Contabilidad</AreaTrabaja>
+		<Sueldo>2500</Sueldo>
+	</UCSM>
+	<UCSM>
+		<Codigo>06</Codigo>
+		<Nombre>Raphaela</Nombre>
+		<AreaTrabaja>Marketing</AreaTrabaja>
+		<Sueldo>3000</Sueldo>
+	</UCSM>
+	
+</Universidad>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Productos>
+	<Producto>
+		<Codigo>01</Codigo>
+		<Nombre>TV</Nombre>
+		<Precio>1500</Precio>
+	</Producto>
+	<Producto>
+		<Codigo>02</Codigo>
+		<Nombre>PC</Nombre>
+		<Precio></Precio>
+	</Producto>
+</Productos>
