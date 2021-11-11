@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\USO-LinQ\obj\Debug\USO-LinQ.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\USO-LinQ\obj\Debug\USO-LinQ.csproj.CoreCompileInputs.cache

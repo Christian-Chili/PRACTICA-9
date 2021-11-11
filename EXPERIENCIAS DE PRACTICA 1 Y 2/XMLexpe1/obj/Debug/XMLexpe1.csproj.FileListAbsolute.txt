@@ -1,0 +1,2 @@
+C:\Users\asus\source\repos\XMLexpe1\obj\Debug\XMLexpe1.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\XMLexpe1\obj\Debug\XMLexpe1.csproj.CoreCompileInputs.cache
